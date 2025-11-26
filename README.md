@@ -60,7 +60,7 @@
 
 ```bash
 Update-Database -StartupProject LoanManagement.API
-    ```
+
 ეს ბრძანება შექმნის ბაზას და ცხრილებს (Users, Loans).
 აპლიკაციის გასაშვებად, დააყენეთ LoanManagement.API როგორც Startup Project და გაუშვით (Run). ბრაუზერში გაიხსნება Swagger UI (https://localhost:7000/swagger).
 
